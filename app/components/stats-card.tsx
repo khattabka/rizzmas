@@ -98,7 +98,7 @@ export function StatsCard() {
       {/* Contract Address */}
       <div className="space-y-2">
         <p className="text-sm font-medium text-red-600">
-          Santa's Contract Address
+          Santa&apos;s Contract Address
         </p>
         <div className="flex items-center justify-between bg-white p-3 rounded-xl shadow-inner">
           <code className="text-sm text-green-600 truncate">
